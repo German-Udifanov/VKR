@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+*.tmp.xlsx
+Raspisanie/*.xlsx
+*_skills.bak.xlsx
+*_machines.bak.xlsx
+*.bak.xlsx

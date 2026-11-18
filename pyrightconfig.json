@@ -1,0 +1,12 @@
+{
+  "include": ["run.py", "app/**/*.py"],
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "extraPaths": ["."]
+    }
+  ],
+  "reportMissingImports": true,
+  "reportMissingModuleSource": true
+}
+

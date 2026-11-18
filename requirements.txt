@@ -1,0 +1,8 @@
+pandas
+openpyxl
+numpy
+ortools
+scikit-learn
+python-pptx
+streamlit>=1.28
+plotly>=5.18
